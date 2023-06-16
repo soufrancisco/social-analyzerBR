@@ -1,12 +1,10 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/social-analyzer/main/readme/socialanalyzerlogo_.png"></p>
 
-Social Analyzer - API, CLI, and Web App for analyzing & finding a person's profile across +1000 social media \ websites. It includes different analysis and detection modules, and you can choose which modules to use during the investigation process.
+Social Analyzer - API, CLI e aplicativo da Web para analisar e encontrar o perfil de uma pessoa em mais de 1.000 mídias sociais \ sites. Inclui diferentes módulos de análise e detecção, e você pode escolher quais módulos usar durante o processo de investigação.
 
-The detection modules utilize a rating mechanism based on different detection techniques, which produces a rate value that starts from 0 to 100 (No-Maybe-Yes). This module is intended to have fewer false positives.
+Os módulos de detecção utilizam um mecanismo de classificação baseado em diferentes técnicas de detecção, que produz um valor de taxa que começa de 0 a 100 (Não-Talvez-Sim). Este módulo destina-se a ter menos falsos positivos.
 
-The analysis and public extracted information from this OSINT tool could help investigate profiles related to suspicious or malicious activities such as cyberbullying, cyber grooming, cyberstalking, and spreading misinformation.
-
-`This project is currently used by some law enforcement agencies in countries where resources are limited - The detection database is different than the one shared here..`
+A análise e as informações públicas extraídas dessa ferramenta OSINT podem ajudar a investigar perfis relacionados a atividades suspeitas ou maliciosas, como cyberbullying, cyber grooming, cyberstalking e disseminação de desinformação.
 
 ## So·cial Me·di·a
 Websites and applications that enable users to create and share content or to participate in social networking - Oxford Dictionary
